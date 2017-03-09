@@ -16,7 +16,7 @@ gem 'sass-rails',              '5.0.6'
 gem 'turbolinks',              '5.0.1'
 gem 'uglifier',                '3.0.0'
 gem 'will_paginate',           '3.1.0'
-gem 'bootstrap-sass',          '3.3.6'
+
 
 group :development, :test do
   gem 'byebug',  '9.0.0', platform: :mri
